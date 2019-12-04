@@ -12,13 +12,13 @@
                     </a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link" href="/editoraHome" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">
-                        Cadastro de Editoras
+                    <a class="nav-link" href="/generoliterarioHome" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">
+                        Cadastro de Gêneros Literários
                     </a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link" href="/generoliterarioHome" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">
-                        Cadastro de Gêneros Literários
+                    <a class="nav-link" href="/editoraHome" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">
+                        Cadastro de Editoras
                     </a>
                 </li>
                 <li class="nav-item dropdown">
